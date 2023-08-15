@@ -1,0 +1,3 @@
+[submodule "default_app"]
+	path = default_app
+	url = https://github.com/songyang-dev/vanier-mobile-default-app
