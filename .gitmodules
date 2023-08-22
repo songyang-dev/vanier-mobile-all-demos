@@ -7,3 +7,6 @@
 [submodule "widgets_in_projects"]
 	path = widgets_in_projects
 	url = https://github.com/songyang-dev/widgets_in_projects.git
+[submodule "media_queries"]
+	path = media_queries
+	url = https://github.com/songyang-dev/vanier-mobile-responsive-design
