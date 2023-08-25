@@ -10,3 +10,6 @@
 [submodule "media_queries"]
 	path = media_queries
 	url = https://github.com/songyang-dev/vanier-mobile-responsive-design
+[submodule "listview"]
+	path = listview
+	url = https://github.com/songyang-dev/vanier-mobile-listview
