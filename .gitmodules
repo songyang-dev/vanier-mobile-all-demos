@@ -13,3 +13,6 @@
 [submodule "listview"]
 	path = listview
 	url = https://github.com/songyang-dev/vanier-mobile-listview
+[submodule "bash-capture-the-flag"]
+	path = bash-capture-the-flag
+	url = https://github.com/songyang-dev/vanier-mobile-bash-capture-the-flag
