@@ -16,3 +16,6 @@
 [submodule "bash-capture-the-flag"]
 	path = bash-capture-the-flag
 	url = https://github.com/songyang-dev/vanier-mobile-bash-capture-the-flag
+[submodule "flutter_capture_the_flag"]
+	path = flutter_capture_the_flag
+	url = https://github.com/songyang-dev/vanier-mobile-flutter-capture-the-flag
