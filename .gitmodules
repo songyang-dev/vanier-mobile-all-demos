@@ -19,3 +19,6 @@
 [submodule "flutter_capture_the_flag"]
 	path = flutter_capture_the_flag
 	url = https://github.com/songyang-dev/vanier-mobile-flutter-capture-the-flag
+[submodule "first_assignment"]
+	path = first_assignment
+	url = https://github.com/songyang-dev/vanier-mobile-first-assignment
