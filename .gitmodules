@@ -22,3 +22,6 @@
 [submodule "first_assignment"]
 	path = first_assignment
 	url = https://github.com/songyang-dev/vanier-mobile-first-assignment
+[submodule "stateful_widget"]
+	path = stateful_widget
+	url = https://github.com/songyang-dev/vanier-mobile-stateful-widget
