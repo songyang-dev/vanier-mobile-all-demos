@@ -25,3 +25,6 @@
 [submodule "stateful_widget"]
 	path = stateful_widget
 	url = https://github.com/songyang-dev/vanier-mobile-stateful-widget
+[submodule "interactive_widgets"]
+	path = interactive_widgets
+	url = https://github.com/songyang-dev/vanier-mobile-interactive-widgets
