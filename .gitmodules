@@ -28,3 +28,6 @@
 [submodule "interactive_widgets"]
 	path = interactive_widgets
 	url = https://github.com/songyang-dev/vanier-mobile-interactive-widgets
+[submodule "forms"]
+	path = forms
+	url = https://github.com/songyang-dev/vanier-mobile-forms
