@@ -31,3 +31,6 @@
 [submodule "forms"]
 	path = forms
 	url = https://github.com/songyang-dev/vanier-mobile-forms
+[submodule "provider_examples"]
+	path = provider_examples
+	url = https://github.com/songyang-dev/vanier-mobile-provider-examples
