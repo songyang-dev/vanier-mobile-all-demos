@@ -37,3 +37,6 @@
 [submodule "async_programming"]
 	path = async_programming
 	url = https://github.com/songyang-dev/vanier-mobile-async-programming
+[submodule "firebase_authentication"]
+	path = firebase_authentication
+	url = https://github.com/songyang-dev/vanier-mobile-firebase-authentication
