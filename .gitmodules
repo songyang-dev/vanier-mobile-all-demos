@@ -40,3 +40,6 @@
 [submodule "firebase_authentication"]
 	path = firebase_authentication
 	url = https://github.com/songyang-dev/vanier-mobile-firebase-authentication
+[submodule "api_examples"]
+	path = api_examples
+	url = https://github.com/songyang-dev/vanier-mobile-api-examples
