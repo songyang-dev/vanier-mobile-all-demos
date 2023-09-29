@@ -43,3 +43,6 @@
 [submodule "api_examples"]
 	path = api_examples
 	url = https://github.com/songyang-dev/vanier-mobile-api-examples
+[submodule "second_assignment"]
+	path = second_assignment
+	url = https://github.com/songyang-dev/vanier-mobile-second-assignment
